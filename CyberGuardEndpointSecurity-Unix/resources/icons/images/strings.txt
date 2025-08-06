@@ -1,0 +1,5 @@
+icon1=Antivirus Icon
+icon2=Firewall Icon
+icon3=IDS Icon
+icon4=Settings Icon
+icon5=Help Icon

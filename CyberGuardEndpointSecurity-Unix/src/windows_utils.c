@@ -1,0 +1,1 @@
+The file `/CyberGuardEndpointSecurity-Unix/src/windows_utils.c` is not applicable for the Unix version of the project. Instead, you may want to generate the contents for `/CyberGuardEndpointSecurity-Unix/src/unix_utils.c`. Would you like me to proceed with that?
